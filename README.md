@@ -1,4 +1,4 @@
-## Olá Mundo! Sou Matheus Plombon, estudante de Análise e Desenvolvimento de Sistemas.
+## Olá Mundo! Sou Matheus Plombon, estudante de Análise e Desenvolvimento de Sistemas..
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
   <div style="display: inline-block;"><br>
